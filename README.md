@@ -35,6 +35,8 @@ Please feel free to populate this list with your project or initiative ([how-to]
   - Machine Learning and the Dewey Decimal ([conference presentation](https://nkos-eu.github.io/2019/content/NKOS2019-presentation-wetjen.pdf), NKOS 2019; [conference paper](http://library.ifla.org/id/eprint/2216), IFLA WLIC 2018)
   - [NoTraM - Norwegian Transformer Model](https://github.com/NBAiLab/notram), a transformer-based model for the Norwegian language
 - Helsinki Central Library Oodi:  [Headai](https://medium.com/headai-customer-stories/customer-story-oodi-1d1ef2554bb6), a virtual information assistant 
+- KBR Royal library of Belgium
+- [Cataloguing books](https://www.realdolmen.com/en/case-study/artificial-intelligence-helps-royal-library-of-belgium ), a tool created in PowerApps+ AIBuilder to detect metadata (title, author, publisher, date) from title page (is already in use). Future possible developments: add computer vision for type of page detection (detection of colophon, title page or back cover), then, based on that detection: use add other models (for: colophon : extract other metadata (isbn, legal deposit number), for back cover: add subject indexing or enity extraction).
 - ...
 
 
